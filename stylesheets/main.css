@@ -12,3 +12,6 @@ iframe{
   height: 6em;
   width:   100%;
 }
+a[rel="license"]{
+  display: inherit;
+}
